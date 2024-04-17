@@ -18,4 +18,4 @@ Em breve um programador Full Stack. 👊🔥
 
 ### Projeto em andamento. 👨🏻‍💻
 
-- PROJETO 001 [SITE DE ALUGUEL DE TEMPORADA ESTILO "AIRBNB" ](https://bomguiabombinhas.com.br)
+- PROJETO 001 [SITE DE ALUGUEL DE TEMPORADA ESTILO "AIRBNB" ](https://bomguiabombinhas.com.br target="_blank">)
